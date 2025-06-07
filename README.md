@@ -1,7 +1,7 @@
 # MLass4
 Overview
 
-This project implements a Convolutional Neural Network (CNN) pipeline for the ICML Facial Expression Recognition Challenge (FER2013). It extends a baseline CNN with class balancing, advanced data augmentations (MixUp, CutMix, Random Erasing), Focal Loss, OneCycleLR scheduling, and mixed-precision training to improve validation and test accuracies.
+This project implements a Convolutional Neural Network (CNN) pipeline for the ICML Facial Expression Recognition Challenge. It extends a baseline CNN with class balancing, advanced data augmentations (MixUp, CutMix, Random Erasing), Focal Loss, OneCycleLR scheduling, and mixed-precision training to improve validation and test accuracies.
 
 Features
 
